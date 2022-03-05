@@ -6,4 +6,8 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @ComponentScan(basePackages = "com.gnc.projectcardsystem.domain")
 public class DomainConfig {
+
+    //Deneme amaçlı yazıldı
+    String field1 = "1234560";
+
 }

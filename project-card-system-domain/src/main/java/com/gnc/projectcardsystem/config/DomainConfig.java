@@ -10,4 +10,7 @@ public class DomainConfig {
     //Deneme amaçlı yazıldı
     String field1 = "1234560";
 
+    public String getField1(){
+        return field1;
+    }
 }
